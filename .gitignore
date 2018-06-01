@@ -19,6 +19,8 @@ parts/
 sdist/
 var/
 venv/
+app.db
+microblog.log*
 *.egg-info/
 .installed.cfg
 *.egg
@@ -42,6 +44,7 @@ coverage.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
 
 # Rope
 .ropeproject
